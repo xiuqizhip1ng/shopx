@@ -1,0 +1,78 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "首页模块",
+    "children" : [ {
+      "name" : "首页直接搜索",
+      "uid" : "2f2e82ebd9dba170",
+      "parentUid" : "039e8615b11c9922ed5e335ccbaaac73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1664351069345,
+        "stop" : 1664351075289,
+        "duration" : 5944
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'PRODUCT': '手机'}" ]
+    }, {
+      "name" : "首页直接搜索",
+      "uid" : "ed120336e32a2db7",
+      "parentUid" : "039e8615b11c9922ed5e335ccbaaac73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1664351075293,
+        "stop" : 1664351075991,
+        "duration" : 698
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'PRODUCT': '裙子'}" ]
+    }, {
+      "name" : "首页直接搜索",
+      "uid" : "efb84d30dcb62d2b",
+      "parentUid" : "039e8615b11c9922ed5e335ccbaaac73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1664351075996,
+        "stop" : 1664351076648,
+        "duration" : 652
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'PRODUCT': '包包'}" ]
+    }, {
+      "name" : "首页进行登录",
+      "uid" : "74176b31ba5c7b54",
+      "parentUid" : "039e8615b11c9922ed5e335ccbaaac73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1664351076653,
+        "stop" : 1664351077415,
+        "duration" : 762
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "039e8615b11c9922ed5e335ccbaaac73"
+  }, {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "正确账号名密码",
+      "uid" : "f7fdc1793c48a831",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1664351077428,
+        "stop" : 1664351079737,
+        "duration" : 2309
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'USERNAME': 'xiuqizhiping1', 'PASSWORD': '123456', 'TYPE': '正确账号名密码'}" ]
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  } ]
+}

@@ -1,0 +1,198 @@
+{
+  "uid" : "ed120336e32a2db7",
+  "name" : "首页直接搜索",
+  "fullName" : "test_case.test_home_searchbox.TestSearch#test_case_phone",
+  "historyId" : "aba19e39499c3a410cbf8a5cb5a38da2",
+  "time" : {
+    "start" : 1664351075293,
+    "stop" : 1664351075991,
+    "duration" : 698
+  },
+  "description" : "在首页进行搜索",
+  "descriptionHtml" : "<p>在首页进行搜索</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "brower",
+    "time" : {
+      "start" : 1664351068277,
+      "stop" : 1664351069339,
+      "duration" : 1062
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setup_method",
+    "time" : {
+      "start" : 1664351075292,
+      "stop" : 1664351075293,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "在首页进行搜索",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "首页搜索框搜索流程",
+      "time" : {
+        "start" : 1664351075293,
+        "stop" : 1664351075991,
+        "duration" : 698
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "打开首页",
+        "time" : {
+          "start" : 1664351075293,
+          "stop" : 1664351075585,
+          "duration" : 292
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "搜索框输入裙子",
+        "time" : {
+          "start" : 1664351075586,
+          "stop" : 1664351075644,
+          "duration" : 58
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "点击搜索按钮",
+        "time" : {
+          "start" : 1664351075644,
+          "stop" : 1664351075984,
+          "duration" : 340
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "搜索页title",
+        "time" : {
+          "start" : 1664351075984,
+          "stop" : 1664351075991,
+          "duration" : 7
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "txt",
+        "value" : "'裙子'"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 4
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 5
+  },
+  "afterStages" : [ {
+    "name" : "brower::0",
+    "time" : {
+      "start" : 1664351079738,
+      "stop" : 1664351081827,
+      "duration" : 2089
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "首页模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_home_searchbox"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSearch"
+  }, {
+    "name" : "host",
+    "value" : "NAYM7QTANU9EIZL"
+  }, {
+    "name" : "thread",
+    "value" : "444884-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_home_searchbox"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'PRODUCT': '裙子'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed120336e32a2db7.json",
+  "parameterValues" : [ "{'PRODUCT': '裙子'}" ]
+}

@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 28 15:44:35 CST 2022","Wed Sep 28 15:44:36 CST 2022","652","test_case","test_home_searchbox","TestSearch","","","首页直接搜索","在首页进行搜索"
+"passed","Wed Sep 28 15:44:36 CST 2022","Wed Sep 28 15:44:37 CST 2022","762","test_case","test_home_searchbox","TestSearch","","","首页进行登录",""
+"passed","Wed Sep 28 15:44:29 CST 2022","Wed Sep 28 15:44:35 CST 2022","5944","test_case","test_home_searchbox","TestSearch","","","首页直接搜索","在首页进行搜索"
+"passed","Wed Sep 28 15:44:35 CST 2022","Wed Sep 28 15:44:35 CST 2022","698","test_case","test_home_searchbox","TestSearch","","","首页直接搜索","在首页进行搜索"
+"passed","Wed Sep 28 15:44:37 CST 2022","Wed Sep 28 15:44:39 CST 2022","2309","test_case","test_login_login","TestLogin","","","正确账号名密码",""

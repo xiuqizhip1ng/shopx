@@ -1,0 +1,51 @@
+[ {
+  "uid" : "efb84d30dcb62d2b",
+  "name" : "首页直接搜索",
+  "time" : {
+    "start" : 1664351075996,
+    "stop" : 1664351076648,
+    "duration" : 652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74176b31ba5c7b54",
+  "name" : "首页进行登录",
+  "time" : {
+    "start" : 1664351076653,
+    "stop" : 1664351077415,
+    "duration" : 762
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f2e82ebd9dba170",
+  "name" : "首页直接搜索",
+  "time" : {
+    "start" : 1664351069345,
+    "stop" : 1664351075289,
+    "duration" : 5944
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed120336e32a2db7",
+  "name" : "首页直接搜索",
+  "time" : {
+    "start" : 1664351075293,
+    "stop" : 1664351075991,
+    "duration" : 698
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7fdc1793c48a831",
+  "name" : "正确账号名密码",
+  "time" : {
+    "start" : 1664351077428,
+    "stop" : 1664351079737,
+    "duration" : 2309
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

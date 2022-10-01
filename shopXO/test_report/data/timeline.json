@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "NAYM7QTANU9EIZL",
+    "children" : [ {
+      "name" : "444884-MainThread",
+      "children" : [ {
+        "name" : "首页直接搜索",
+        "uid" : "efb84d30dcb62d2b",
+        "parentUid" : "c6899c8a2dfab8b2b2b38238458684ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1664351075996,
+          "stop" : 1664351076648,
+          "duration" : 652
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'PRODUCT': '包包'}" ]
+      }, {
+        "name" : "首页直接搜索",
+        "uid" : "ed120336e32a2db7",
+        "parentUid" : "c6899c8a2dfab8b2b2b38238458684ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1664351075293,
+          "stop" : 1664351075991,
+          "duration" : 698
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'PRODUCT': '裙子'}" ]
+      }, {
+        "name" : "正确账号名密码",
+        "uid" : "f7fdc1793c48a831",
+        "parentUid" : "c6899c8a2dfab8b2b2b38238458684ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1664351077428,
+          "stop" : 1664351079737,
+          "duration" : 2309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'USERNAME': 'xiuqizhiping1', 'PASSWORD': '123456', 'TYPE': '正确账号名密码'}" ]
+      }, {
+        "name" : "首页进行登录",
+        "uid" : "74176b31ba5c7b54",
+        "parentUid" : "c6899c8a2dfab8b2b2b38238458684ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1664351076653,
+          "stop" : 1664351077415,
+          "duration" : 762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "首页直接搜索",
+        "uid" : "2f2e82ebd9dba170",
+        "parentUid" : "c6899c8a2dfab8b2b2b38238458684ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1664351069345,
+          "stop" : 1664351075289,
+          "duration" : 5944
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'PRODUCT': '手机'}" ]
+      } ],
+      "uid" : "c6899c8a2dfab8b2b2b38238458684ba"
+    } ],
+    "uid" : "f1888430fcd9580eb6989a6019033009"
+  } ]
+}

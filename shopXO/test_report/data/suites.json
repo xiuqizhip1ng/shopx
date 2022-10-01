@@ -1,0 +1,90 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_home_searchbox",
+      "children" : [ {
+        "name" : "TestSearch",
+        "children" : [ {
+          "name" : "首页直接搜索",
+          "uid" : "2f2e82ebd9dba170",
+          "parentUid" : "c36a0c7c03db3b08caffed8e523f8186",
+          "status" : "passed",
+          "time" : {
+            "start" : 1664351069345,
+            "stop" : 1664351075289,
+            "duration" : 5944
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'PRODUCT': '手机'}" ]
+        }, {
+          "name" : "首页直接搜索",
+          "uid" : "ed120336e32a2db7",
+          "parentUid" : "c36a0c7c03db3b08caffed8e523f8186",
+          "status" : "passed",
+          "time" : {
+            "start" : 1664351075293,
+            "stop" : 1664351075991,
+            "duration" : 698
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'PRODUCT': '裙子'}" ]
+        }, {
+          "name" : "首页直接搜索",
+          "uid" : "efb84d30dcb62d2b",
+          "parentUid" : "c36a0c7c03db3b08caffed8e523f8186",
+          "status" : "passed",
+          "time" : {
+            "start" : 1664351075996,
+            "stop" : 1664351076648,
+            "duration" : 652
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'PRODUCT': '包包'}" ]
+        }, {
+          "name" : "首页进行登录",
+          "uid" : "74176b31ba5c7b54",
+          "parentUid" : "c36a0c7c03db3b08caffed8e523f8186",
+          "status" : "passed",
+          "time" : {
+            "start" : 1664351076653,
+            "stop" : 1664351077415,
+            "duration" : 762
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c36a0c7c03db3b08caffed8e523f8186"
+      } ],
+      "uid" : "83e02a50bb52fe6e5d6c0aabcac872c2"
+    }, {
+      "name" : "test_login_login",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "正确账号名密码",
+          "uid" : "f7fdc1793c48a831",
+          "parentUid" : "5f2d4409705153da1b4fc0bc200e7838",
+          "status" : "passed",
+          "time" : {
+            "start" : 1664351077428,
+            "stop" : 1664351079737,
+            "duration" : 2309
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'USERNAME': 'xiuqizhiping1', 'PASSWORD': '123456', 'TYPE': '正确账号名密码'}" ]
+        } ],
+        "uid" : "5f2d4409705153da1b4fc0bc200e7838"
+      } ],
+      "uid" : "da2fd2ed451fdbaabc459e0c55a8cd56"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}
